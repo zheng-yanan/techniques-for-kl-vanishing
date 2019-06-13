@@ -1,0 +1,3 @@
+model_checkpoint_path: "vae_anneal_cyc_last"
+all_model_checkpoint_paths: "vae_anneal_cyc"
+all_model_checkpoint_paths: "vae_anneal_cyc_last"
