@@ -26,4 +26,4 @@ Here we reviewing related works for handling KL vanishing.
 [Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing](https://arxiv.org/abs/1903.10145) (NAACL2019).
 
 
-To Be Continued.
+[To Be Continued]
